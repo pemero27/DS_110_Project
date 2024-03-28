@@ -1,4 +1,5 @@
 The project guidelines were as followed:
+
 • 2 different statistical methods
 • 2 machine learning methods - for each, the input features, the feature being
 predicted, and a parameter to try to modify for better performance
